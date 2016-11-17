@@ -1,0 +1,2 @@
+# dashboard
+beego application dashboard
